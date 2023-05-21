@@ -22,7 +22,7 @@ The files consist of a list of product listings. These files are tab-delimited.
 
 • price - the price that the item was sold for. This is the target variable that you will predict. The unit is USD. This column doesn't exist in test.tsv since that is what you will predict.
 
-• shipping - 1 if shipping fee is paid by seller and 0 by buyer
+• shipping - 1 if shipping fee is paid by buyer and 0 by seller
 
 • item_description - the full description of the item.
 
