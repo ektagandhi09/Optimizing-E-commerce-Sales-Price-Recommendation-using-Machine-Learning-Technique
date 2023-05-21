@@ -1,4 +1,4 @@
-# Optimizing-E-commerce-Sales-Price-Recommendation-using-Machine-Learning-Technique
+# Optimizing-E-commerce-Sales-Price-Recommendation-using-Machine-Learning-Techniques
 
 Mercari wants us to build an algorithm that automatically suggests the right product prices from the user-inputted text descriptions of their products, including details like product category name, brand name, item condition, etc.
 
